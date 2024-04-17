@@ -12,6 +12,6 @@ class Main{
          }  
          public static void main(String[] args){
            language();
-           speak("german");
+           speak("german"); //cool
          }
    }
